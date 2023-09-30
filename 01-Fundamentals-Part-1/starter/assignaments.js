@@ -1,0 +1,13 @@
+const country = `Turkey`;
+let population = 82;
+const continent = `Europe`;
+console.log(country);
+console.log(continent);
+console.log(population);
+const isIsland = true;
+let language;
+console.log(typeof country);
+console.log(typeof isIsland);
+console.log(typeof language);
+language = `Turkish`;
+console.log(language);
